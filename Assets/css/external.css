@@ -311,12 +311,12 @@ body {
 }
 @keyframes first {
   from {
-    /* transform: scale(0.1); */
-    transform: translate(100px);
+    transform: scale(0.1);
+    /* transform: translate(100px); */
   }
   to {
-    /* transform: scale(1); */
-    transform: translate(0);
+    transform: scale(1);
+    /* transform: translate(0); */
   }
 }
 .opt i:hover {
